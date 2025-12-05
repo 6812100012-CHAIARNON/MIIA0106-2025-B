@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../pratice2/pratice2.vcxproj" Id="00d0e006-f4f9-4737-8e3d-953fa108290e" />
+  <Project Path="../Pratice3/Pratice3.vcxproj" Id="22566f13-4a57-41dc-a0e8-7edf8800e6fb" />
+  <Project Path="pratice.vcxproj" Id="9e0e485c-44d1-47d2-89c1-386a1c079bc7" />
+</Solution>

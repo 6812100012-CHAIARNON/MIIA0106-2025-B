@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CXXG808\\source\\repos\\LAB5 Function in C\u002B\u002B(Lab)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D51731CD-B338-433A-A95C-39B0A69263A0}|..\\LAB503\\LAB503.vcxproj|C:\\Users\\CXXG808\\source\\repos\\LAB503\\LAB503.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C26E498-6D6C-426C-BB36-260297ED1859}|LAB5 Function in C\u002B\u002B(Lab).vcxproj|C:\\Users\\CXXG808\\source\\repos\\LAB5 Function in C\u002B\u002B(Lab)\\LAB5 Function in C\u002B\u002B(Lab).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C26E498-6D6C-426C-BB36-260297ED1859}|LAB5 Function in C\u002B\u002B(Lab).vcxproj|solutionrelative:LAB5 Function in C\u002B\u002B(Lab).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961F469F-6D86-40AB-B46D-7580A329DB1E}|..\\LAB502\\LAB502.vcxproj|C:\\Users\\CXXG808\\source\\repos\\LAB502\\LAB502.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB5 Function in C\u002B\u002B(Lab).cpp",
+              "DocumentMoniker": "C:\\Users\\CXXG808\\source\\repos\\LAB5 Function in C\u002B\u002B(Lab)\\LAB5 Function in C\u002B\u002B(Lab).cpp",
+              "RelativeDocumentMoniker": "LAB5 Function in C\u002B\u002B(Lab).cpp",
+              "ToolTip": "C:\\Users\\CXXG808\\source\\repos\\LAB5 Function in C\u002B\u002B(Lab)\\LAB5 Function in C\u002B\u002B(Lab).cpp",
+              "RelativeToolTip": "LAB5 Function in C\u002B\u002B(Lab).cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T08:26:37.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB502.cpp",
+              "DocumentMoniker": "C:\\Users\\CXXG808\\source\\repos\\LAB502\\LAB502.cpp",
+              "RelativeDocumentMoniker": "..\\LAB502\\LAB502.cpp",
+              "ToolTip": "C:\\Users\\CXXG808\\source\\repos\\LAB502\\LAB502.cpp",
+              "RelativeToolTip": "..\\LAB502\\LAB502.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T09:21:52.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB503.cpp",
+              "DocumentMoniker": "C:\\Users\\CXXG808\\source\\repos\\LAB503\\LAB503.cpp",
+              "RelativeDocumentMoniker": "..\\LAB503\\LAB503.cpp",
+              "ToolTip": "C:\\Users\\CXXG808\\source\\repos\\LAB503\\LAB503.cpp",
+              "RelativeToolTip": "..\\LAB503\\LAB503.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T09:45:03.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

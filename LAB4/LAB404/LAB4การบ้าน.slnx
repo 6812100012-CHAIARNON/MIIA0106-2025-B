@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../LAB405การบ้าน/LAB405การบ้าน.vcxproj" />
+  <Project Path="../LAB406/LAB406.vcxproj" />
+  <Project Path="../LAB407/LAB407.vcxproj" />
+  <Project Path="LAB4การบ้าน.vcxproj" />
+</Solution>

@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../LAB4HOMEWORK2/LAB4HOMEWORK2.vcxproj" />
+  <Project Path="../LAB4HOMEWORK3/LAB4HOMEWORK3.vcxproj" />
+  <Project Path="../LABHOMEWORK-10-8-6-4-2-0/LABHOMEWORK-10-8-6-4-2-0.vcxproj" />
+  <Project Path="LAB-4HOMWORK.vcxproj" />
+</Solution>

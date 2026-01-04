@@ -1,0 +1,35 @@
+﻿#include <iostream>
+#include <string>
+using namespace std;
+
+struct Student {
+    string id;
+    string nickname;
+    string lineId;
+    string phone;
+};
+
+int main() {
+    Student s1; // ตัวแปรเดี่ยวของ struct
+
+    cout << "=== Input Student 1 ===\n";
+	cout << "Enter id: ";
+	cin >> s1.id;
+
+	cout << "Enter nickname: ";
+	cin >> s1.nickname;
+
+	cout << "Enter lineId: ";
+	cin >> s1.lineId;
+
+	cout << "Enter phone: ";
+	cin >> s1.phone;
+
+    cout << "\n=== Output Student 1 ===\n";
+    
+    cout << "ID\tnickname\tLine ID\t Phone \n";
+    cout << s1.id << "\t" << s1.nickname << "\t" << s1.lineId << "\t" << s1.phone << "\n";
+
+    return 1;
+}
+
